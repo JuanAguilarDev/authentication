@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">authentication</string>
+    <string name="start">Comenzar</string>
+    <string name="register">Registrarse</string>
+    <string name="login">Inicar</string>
+    <string name="register_legend">Registrate con nostros</string>
+    <string name="login_legend">Bienvenido</string>
+    <string name="create_user">Crear cuenta</string>
+    <string name="auth">Iniciar</string>
+    <string name="forget_password">Ha olvidado su contraseña?</string>
+    <string name="email">Ingresa tu correo...</string>
+    <string name="password">Ingresa tu contraseña...</string>
+</resources>
